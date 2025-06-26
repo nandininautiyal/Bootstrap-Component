@@ -1,2 +1,2 @@
-# Bootstrap-Component
-This is a part of my learning! I have created this because I wanted to learn the use of Bootstrap Components.
+This project is called MoveIt. I have tried creating this page using bootstrap components to understand how it can be efficiently used.
+
